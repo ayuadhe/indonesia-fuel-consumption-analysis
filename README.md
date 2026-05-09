@@ -41,25 +41,20 @@ Data konsumsi Pertamax dalam analisis ini hanya tersedia hingga 2022 berdasarkan
 
 <br>
 <h1 align="center">Deep Dive</h1>
-<br>
 
 ### 1. Energy Overview: Price, Consumption & Composition
-### 
 
 <br> 
-
 <p align="center">
   <img width="1656" height="255" alt="Image" src="https://github.com/user-attachments/assets/0f40449f-1693-4d2b-8d5d-5888d8a9bd57" />
 </p>
 
 Selama periode 2016–2024, harga Pertalite meningkat sebesar +40,4% dari Rp7.121 menjadi Rp10.000 per liter. Meskipun demikian, konsumsi BBM nasional tetap menunjukkan tren kenaikan, dengan puncak tertinggi tercatat pada tahun 2022 sebesar 53,6 juta KL. Sepanjang periode analisis, Pertalite mendominasi komposisi konsumsi BBM dengan rata-rata share 51,4% dari total konsumsi. Secara keseluruhan, rata-rata konsumsi BBM nasional berada di level 40,8 juta KL per tahun, menunjukkan bahwa permintaan energi transportasi tetap tumbuh meskipun terdapat kenaikan harga BBM.
 
-<br>
 
 ### 1.1. Fuel Price Trend (2016-2024)
 
 <br> 
-
 <p align="center">
   <img width="491" height="234" alt="Image" src="https://github.com/user-attachments/assets/c1f87461-b84e-4fb4-8990-16d770f86acb" />
 </p>
@@ -76,7 +71,6 @@ Sementara itu, Solar mencatat periode stabilitas harga yang relatif panjang, tet
 ### 1.2. Fuel Consumption Trend (2016-2024)
 
 <br> 
-
 <p align="center">
   <img width="481" height="239" alt="Image" src="https://github.com/user-attachments/assets/57ebe5fe-ab6c-4f1b-91e9-93353d9315f8" />
 </p>
@@ -139,8 +133,6 @@ Namun, pengecualian terjadi pada 2022 ketika harga Pertamax melonjak sekitar 34,
 
 Sensitivitas konsumsi Pertamax terhadap harga juga dipengaruhi oleh adanya opsi substitusi ke Pertalite. Ketika harga Pertamax meningkat, sebagian konsumen dapat melakukan *downtrading* dengan beralih ke BBM yang lebih terjangkau. Sebaliknya, pengguna Pertalite memiliki alternatif yang lebih terbatas karena berada pada segmen BBM bensin dengan harga paling terjangkau bagi mayoritas masyarakat.
 
-*Annotation: Data konsumsi Pertamax dalam analisis ini tersedia hingga 2022 berdasarkan dataset yang digunakan.*
-
 ### Solar
 
 Konsumsi Solar menunjukkan pola yang paling stabil dibandingkan jenis BBM lainnya sepanjang periode pengamatan. Penurunan terbesar terjadi pada tahun 2020, dari 15,30 juta KL menjadi 14,48 juta KL, seiring perlambatan aktivitas ekonomi selama pandemi COVID-19. Namun, pada 2022 konsumsi justru meningkat dari 16,06 juta KL menjadi 18,10 juta KL meskipun harga Solar naik untuk pertama kalinya dalam enam tahun. Hal ini menunjukkan bahwa konsumsi Solar lebih dipengaruhi oleh aktivitas ekonomi dibanding perubahan harga.
@@ -153,7 +145,7 @@ Secara keseluruhan, pola ini menunjukkan bahwa permintaan Solar cenderung relati
 <br> 
 
 <p align="center">
-  <img width="737" height="373" alt="Image" src="https://github.com/user-attachments/assets/25019779-0e35-4f8f-8112-a45cb8326592" />
+  <img width="491" height="249" alt="Image" src="https://github.com/user-attachments/assets/25019779-0e35-4f8f-8112-a45cb8326592" />
 </p>
 
 Perubahan konsumsi BBM nasional cenderung bergerak searah dengan kondisi ekonomi Indonesia. Penurunan paling signifikan terjadi pada 2020 ketika pandemi COVID-19 memicu kontraksi ekonomi dan menurunkan mobilitas masyarakat. Seiring pemulihan ekonomi, konsumsi BBM kembali meningkat secara bertahap.
@@ -164,7 +156,7 @@ PDB kembali tumbuh 3,69% (2021) dan 5,31% (2022), diikuti lonjakan total konsums
 <br> 
 
 <p align="center">
-  <img width="751" height="370" alt="Image" src="https://github.com/user-attachments/assets/0fc12d8f-cf0a-403e-8d9d-7973912438eb" />
+  <img width="501" height="247" alt="Image" src="https://github.com/user-attachments/assets/0fc12d8f-cf0a-403e-8d9d-7973912438eb" />
 </p>
 
 Analisis fuel switching bertujuan mengidentifikasi apakah kenaikan harga Pertamax mendorong perpindahan konsumen ke Pertalite yang lebih terjangkau. Data 2016–2022 menunjukkan indikasi fuel switching, terutama pada 2022, ketika harga Pertamax melonjak +34,6% dari Rp9.000 menjadi Rp12.112 per liter.
@@ -178,17 +170,72 @@ Secara keseluruhan, data menunjukkan indikasi hubungan substitusi antara Pertama
 <br>
 <h1 align="center">Strategic Recommendations</h1>
 
-1. **Pemerintah Perlu Memperkuat Kebijakan Subsidi yang Lebih Tepat Sasaran.** <br>
-Konsumsi Pertalite terbukti tetap meningkat meskipun harga naik, permintaan BBM subsidi cenderung bersifat inelastis. Hal ini menunjukkan bahwa sebagian besar masyarakat masih sangat bergantung pada BBM bersubsidi untuk mobilitas sehari-hari. <br>
-**Recommendations:** <br>
-  - Pengendalian subsidi sebaiknya difokuskan pada ketepatan distribusi, bukan hanya penyesuaian harga.
-  - Segmentasi penerima subsidi perlu diperjelas agar konsumsi subsidi tidak semakin didominasi kelompok non-prioritas.
-   
-3. **Respons Konsumsi terhadap Harga Berbeda Antar Jenis BBM.**<br>
-   Pertalite cenderung inelastis, kenaikan harga tidak menekan konsumsi dan bahkan tetap meningkat, mengindikasikan perannya sebagai kebutuhan utama masyarakat. Sebaliknya, Pertamax menunjukkan elastisitas yang lebih tinggi, terlihat dari penurunan konsumsi pada periode kenaikan harga tertentu. Sementara itu, Solar relatif stabil dan lebih responsif terhadap level aktivitas ekonomi dibanding perubahan harga.
-4. **Pertalite menjadi BBM paling dominan dengan rata-rata kontribusi sekitar 51,4% dari total konsumsi.**<br>
-   Dalam periode 2016–2022, terjadi pergeseran struktural yang signifikan, dari 23,87% pada 2016 menjadi 55,44% pada 2022, melampaui Solar yang sebelumnya dominan. Pergeseran ini berlangsung konsisten setiap tahun, mencerminkan perubahan jangka panjang pola konsumsi energi di Indonesia, didorong oleh pertumbuhan kendaraan berbahan bakar bensin serta peran Pertalite sebagai substitusi utama Premium.
-5. **Terdapat indikasi fuel switching dari Pertamax ke Pertalite.**<br>
-   Data 2016–2022 menunjukkan bahwa pada 2022, kenaikan harga Pertamax sebesar 34,6% diikuti stagnasi konsumsi Pertamax, sementara Pertalite mengalami lonjakan signifikan. Pola ini menunjukkan kecenderungan pergeseran konsumsi (downtrading) dari BBM non-subsidi ke subsidi seiring pelebaran gap harga antar produk.
-6. **Konsumsi BBM menunjukkan hubungan yang kuat dengan pertumbuhan ekonomi nasional (GDP-driven demand).**<br>
-   Kenaikan PDB dari 3,69% (2021) menjadi 5,31% (2022) diikuti oleh lonjakan konsumsi BBM, menunjukkan bahwa permintaan energi di Indonesia bersifat pro-siklikal, yakni bergerak searah dengan pertumbuhan ekonomi, dan lebih dipengaruhi oleh aktivitas ekonomi dibandingkan perubahan harga.
+### 1. Pemerintah Perlu Memperkuat Kebijakan Subsidi yang Lebih Tepat Sasaran
+**Key insight**  
+Konsumsi Pertalite tetap meningkat meskipun harga naik menunjukkan bahwa sebagian besar masyarakat masih sangat bergantung pada BBM bersubsidi untuk mobilitas sehari-hari.
+
+**Recommendations**
+- Pengendalian subsidi sebaiknya difokuskan pada ketepatan distribusi, bukan hanya penyesuaian harga.
+- Segmentasi penerima subsidi perlu diperjelas agar konsumsi subsidi tidak semakin didominasi kelompok non-prioritas.
+
+**Why it matters**
+Jika tidak dikendalikan, peningkatan konsumsi Pertalite dapat meningkatkan beban subsidi energi nasional dan memperbesar tekanan fiskal pemerintah.
+
+### 2. Kondisi Ekonomi Makro Perlu Menjadi Pertimbangan Utama dalam Kebijakan Harga BBM
+**Key Insight**  
+Konsumsi BBM lebih responsif terhadap pertumbuhan ekonomi dibanding perubahan harga.
+
+**Recommendations**
+- Penyesuaian harga BBM sebaiknya mempertimbangkan momentum ekonomi nasional.
+- Pada periode inflasi tinggi, penyesuaian harga BBM sebaiknya dilakukan secara bertahap dan terukur untuk meminimalkan tekanan lanjutan terhadap biaya logistik dan inflasi nasional.
+- Pemerintah dapat menggunakan indikator makro seperti GDP growth, inflasi, dan mobilitas sebagai leading indicator untuk proyeksi kebutuhan energi.
+
+### 3. Indikasi Fuel Switching Menunjukkan Risiko Distorsi Konsumsi Energi
+**Key insight**  
+Kenaikan tajam harga Pertamax yang diikuti lonjakan konsumsi Pertalite mengindikasikan kemungkinan downtrading ke BBM subsidi.
+
+**Recommendations**
+- Pemerintah perlu menjaga price gap antara BBM subsidi dan non-subsidi agar tidak terlalu lebar. Price gap yang terlalu besar berpotensi:
+    - meningkatkan migrasi konsumsi ke BBM subsidi,
+    - memperbesar beban subsidi,
+    - dan mengurangi efektivitas segmentasi pasar energi.
+
+**Why it matters**
+Ketika harga BBM non-subsidi meningkat terlalu agresif, tekanan konsumsi dapat berpindah ke BBM subsidi dan menciptakan ketidakseimbangan distribusi energi nasional.
+
+### 4. Solar Memiliki Karakteristik Demand yang Berbeda dan Lebih Strategis
+**Key insight**  
+Konsumsi Solar relatif stabil dan lebih dipengaruhi aktivitas ekonomi dibanding harga, karena berkaitan langsung dengan logistik dan transportasi.
+
+**Recommendations**
+- Stabilitas harga Solar perlu dijaga untuk stabilitas rantai pasok dan inflasi nasional
+- Kebijakan Solar sebaiknya diposisikan bukan hanya sebagai kebijakan energi, tetapi juga instrumen stabilitas ekonomi.
+- Pemerintah dapat memprioritaskan monitoring distribusi Solar pada sektor logistik dan industri produktif.
+- Efektivitas sistem pengendalian distribusi Solar subsidi perlu terus dievaluasi
+
+### 5. Indonesia Masih Sangat Bergantung pada Energi Berbasis BBM
+**Key insight**  
+Meskipun harga BBM meningkat dalam jangka panjang, konsumsi nasional tetap tumbuh secara konsisten setelah pandemi.
+
+**Recommendations**
+- Pemerintah dan industri energi dapat memperluas adopsi kendaraan listrik, serta mengembangkan insentif energi alternatif untuk mengurangi tekanan konsumsi BBM jangka panjang
+
+### 6. Ketahanan Energi Nasional Perlu Diperkuat terhadap Volatilitas Global
+**Key insight**  
+Lonjakan harga energi global pada 2022 menunjukkan bahwa konsumsi dan kebijakan BBM domestik masih sangat dipengaruhi dinamika pasar energi internasional.
+
+**Recommendations**
+- Perlu disiapkan **skenario kebijakan harga** jika harga minyak dunia kembali melonjak seperti 2022, agar pemerintah tidak reaktif.
+- Pemerintah perlu memastikan ketersediaan buffer stok BBM nasional yang memadai untuk meningkatkan ketahanan energi dalam menghadapi lonjakan harga minyak dunia maupun gangguan pasokan global.
+
+**Why it matters**
+Kesiapan cadangan energi dan skenario kebijakan yang lebih proaktif dapat membantu menjaga stabilitas distribusi energi dan mengurangi kebutuhan kebijakan yang bersifat reaktif saat terjadi krisis global.
+
+<br>
+<h1 align="center">Overall Business Conclusion</h1>
+
+Secara keseluruhan, analisis menunjukkan bahwa konsumsi BBM di Indonesia selama 2016–2024 lebih dipengaruhi oleh aktivitas ekonomi dan struktur subsidi dibanding perubahan harga semata. Pertalite sebagai BBM subsidi menunjukkan karakteristik permintaan yang paling inelastis dan semakin mendominasi konsumsi nasional, sementara Pertamax lebih sensitif terhadap perubahan harga dan memiliki indikasi hubungan substitusi dengan Pertalite.
+
+Temuan ini mengindikasikan bahwa kebijakan energi nasional tidak dapat hanya berfokus pada penyesuaian harga, tetapi juga perlu mempertimbangkan kondisi makroekonomi, ketepatan subsidi, serta potensi distorsi konsumsi akibat fuel switching behavior.
+
+<br>
