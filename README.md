@@ -34,7 +34,6 @@ Selama periode 2016–2024, Indonesia mengalami berbagai penyesuaian harga BBM, 
 <br>
 <h1 align="center">Data Sources</h1>
 <br>
-
 Dataset dalam analisis ini dikumpulkan dari berbagai sumber resmi dan publik, termasuk **Kementerian ESDM**, **Handbook of Energy & Economic Statistics of Indonesia (HEESI)**, **BPH Migas**, **Badan Pusat Statistik (BPS)**, **Pertamina**, serta platform data dan artikel publik seperti **Katadata** dan **CNN Indonesia**.
 
 Data konsumsi Pertamax dalam analisis ini hanya tersedia hingga 2022 berdasarkan publikasi HEESI Kementerian ESDM. Data 2023–2024 tidak ditemukan pada sumber publik yang digunakan dalam penelitian ini.
@@ -43,7 +42,6 @@ Data konsumsi Pertamax dalam analisis ini hanya tersedia hingga 2022 berdasarkan
 <h1 align="center">Deep Dive</h1>
 
 ### 1. Energy Overview: Price, Consumption & Composition
-
 <br> 
 <p align="center">
   <img width="1656" height="255" alt="Image" src="https://github.com/user-attachments/assets/0f40449f-1693-4d2b-8d5d-5888d8a9bd57" />
@@ -85,6 +83,7 @@ Penurunan konsumsi pada 2020 mencerminkan dampak pandemi COVID-19 terhadap mobil
 
 <p align="center">
   <img width="558" height="236" alt="Image" src="https://github.com/user-attachments/assets/316a8037-2283-4b0c-90b0-fb7fcfc040fe" />
+  <sub>Data konsumsi Pertamax hanya tersedia hingga 2022.</sub>
 </p>
 
 Komposisi konsumsi BBM Indonesia mengalami pergeseran struktural yang signifikan selama periode pengamatan. Pada 2016, Solar masih mendominasi dengan kontribusi sebesar 56,49%, sementara Pertalite baru berkontribusi 23,87% karena masih berada pada tahap awal pengenalan sebagai pengganti Premium.
@@ -92,8 +91,6 @@ Komposisi konsumsi BBM Indonesia mengalami pergeseran struktural yang signifikan
 Namun, dalam waktu enam tahun, komposisi tersebut berubah drastis. Pada 2022, Pertalite mendominasi dengan kontribusi 55,44%, sedangkan Solar turun menjadi 33,79% dan Pertamax menyusut ke 10,77%. Perubahan ini terjadi secara bertahap dan konsisten dari tahun ke tahun, mencerminkan pergeseran preferensi konsumsi BBM masyarakat secara struktural.
 
 Di sisi lain, Pertamax relatif bertahan di kisaran 10–20% sepanjang periode analisis, meskipun trennya menurun dari 19,64% pada 2016 menjadi 10,77% pada 2022. Hal ini mengindikasikan bahwa pengguna BBM non-subsidi cenderung stabil secara proporsi, tetapi semakin tertekan oleh dominasi Pertalite sebagai opsi yang lebih terjangkau.
-
-*Annotation: Data 2023–2024 tidak ditampilkan karena ketidaklengkapan data konsumsi Pertamax.*
 
 ### 2. How Fuel Demand Responds to Price & Economic Growth
 
@@ -115,6 +112,7 @@ Pada periode yang sama, harga Pertamax melonjak 34,6% dari Rp9.000 menjadi Rp12.
 
 <p align="center">
   <img width="1553" height="322" alt="Image" src="https://github.com/user-attachments/assets/867d72db-35aa-47b7-a565-3eac155d1663" />
+  <sub>Data konsumsi Pertamax dalam analisis ini hanya tersedia hingga tahun 2022 berdasarkan dataset dan sumber publik yang digunakan.</sub>
 </p>
 
 ### Pertalite
