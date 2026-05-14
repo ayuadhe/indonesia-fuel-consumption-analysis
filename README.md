@@ -4,9 +4,25 @@
   <img width="1670" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b7960e2b-f297-4ef5-ad27-ce1a1db196dc" />
 </p>
 
+### Table of Contents
+- [Background](#background)
+- [Business Questions](#business-questions)
+- [Data Sources](#data-sources)
+- [Key Findings](#key-findings)
+- [Deep Dive](#deep-dive)
+- [Strategic Recommendations](#strategic-recommendations)
+- [Overall Business Conclusion](#overall-business-conclusion)
+
+<br>
+<h1 align="center">Background</h1>
+<br>
+
 Selama periode 2016–2024, Indonesia mengalami berbagai penyesuaian harga BBM, fluktuasi makroekonomi, dan guncangan energi global yang memengaruhi dinamika konsumsi energi nasional. Analisis ini bertujuan untuk memahami bagaimana perubahan harga BBM dan kondisi makroekonomi memengaruhi pola konsumsi energi di Indonesia, serta memberikan insight yang dapat mendukung pengambilan keputusan terkait kebijakan harga dan distribusi energi nasional.
 
-### Business Questions
+<br>
+<h1 align="center">Business Questions</h1>
+<br>
+
 - Bagaimana tren harga BBM (Pertalite, Pertamax, Solar) dari 2016–2024?
 - Bagaimana tren konsumsi BBM selama periode yang sama?
 - Jenis BBM mana yang paling dominan dikonsumsi?
@@ -14,6 +30,15 @@ Selama periode 2016–2024, Indonesia mengalami berbagai penyesuaian harga BBM, 
 - Pada tahun mana terjadi anomali dan kenapa?
 - Apakah ada fuel switching behavior?
 - Bagaimana kondisi ekonomi makro (pertumbuhan PDB, inflasi) memengaruhi pola konsumsi BBM nasional?
+
+<br>
+<h1 align="center">Data Sources</h1>
+<br>
+
+Dataset dalam analisis ini dikumpulkan dari berbagai sumber resmi dan publik, termasuk **Kementerian ESDM**, **Handbook of Energy & Economic Statistics of Indonesia (HEESI)**, **BPH Migas**, **Badan Pusat Statistik (BPS)**, **Pertamina**, serta platform data dan artikel publik seperti **Katadata** dan **CNN Indonesia**.
+
+Data konsumsi Pertamax dalam analisis ini hanya tersedia hingga 2022 berdasarkan publikasi HEESI Kementerian ESDM. Data 2023–2024 tidak ditemukan pada sumber publik yang digunakan dalam penelitian ini.
+
 
 <br>
 <h1 align="center">Key Findings</h1>
@@ -29,15 +54,6 @@ Selama periode 2016–2024, Indonesia mengalami berbagai penyesuaian harga BBM, 
    Data 2016–2022 menunjukkan bahwa pada 2022, kenaikan harga Pertamax sebesar 34,6% diikuti stagnasi konsumsi Pertamax, sementara Pertalite mengalami lonjakan signifikan. Pola ini menunjukkan kecenderungan pergeseran konsumsi (downtrading) dari BBM non-subsidi ke subsidi seiring pelebaran gap harga antar produk.
 5. **Konsumsi BBM menunjukkan hubungan yang kuat dengan pertumbuhan ekonomi nasional (GDP-driven demand).**<br>
    Kenaikan PDB dari 3,69% (2021) menjadi 5,31% (2022) diikuti oleh lonjakan konsumsi BBM, menunjukkan bahwa permintaan energi di Indonesia bersifat pro-siklikal, yakni bergerak searah dengan pertumbuhan ekonomi, dan lebih dipengaruhi oleh aktivitas ekonomi dibandingkan perubahan harga.
-
-
-<br>
-<h1 align="center">Data Sources</h1>
-<br>
-
-Dataset dalam analisis ini dikumpulkan dari berbagai sumber resmi dan publik, termasuk **Kementerian ESDM**, **Handbook of Energy & Economic Statistics of Indonesia (HEESI)**, **BPH Migas**, **Badan Pusat Statistik (BPS)**, **Pertamina**, serta platform data dan artikel publik seperti **Katadata** dan **CNN Indonesia**.
-
-Data konsumsi Pertamax dalam analisis ini hanya tersedia hingga 2022 berdasarkan publikasi HEESI Kementerian ESDM. Data 2023–2024 tidak ditemukan pada sumber publik yang digunakan dalam penelitian ini.
 
 <br>
 <h1 align="center">Deep Dive</h1>
