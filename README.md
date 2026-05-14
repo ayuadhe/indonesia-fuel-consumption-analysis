@@ -82,9 +82,11 @@ Penurunan konsumsi pada 2020 mencerminkan dampak pandemi COVID-19 terhadap mobil
 
 <p align="center">
   <img width="558" height="236" alt="Image" src="https://github.com/user-attachments/assets/316a8037-2283-4b0c-90b0-fb7fcfc040fe" />
+</p>
+<p align="center">
   <sub>Data konsumsi Pertamax hanya tersedia hingga 2022.</sub>
 </p>
-
+  
 Komposisi konsumsi BBM Indonesia mengalami pergeseran struktural yang signifikan selama periode pengamatan. Pada 2016, Solar masih mendominasi dengan kontribusi sebesar 56,49%, sementara Pertalite baru berkontribusi 23,87% karena masih berada pada tahap awal pengenalan sebagai pengganti Premium.
 
 Namun, dalam waktu enam tahun, komposisi tersebut berubah drastis. Pada 2022, Pertalite mendominasi dengan kontribusi 55,44%, sedangkan Solar turun menjadi 33,79% dan Pertamax menyusut ke 10,77%. Perubahan ini terjadi secara bertahap dan konsisten dari tahun ke tahun, mencerminkan pergeseran preferensi konsumsi BBM masyarakat secara struktural.
