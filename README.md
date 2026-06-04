@@ -25,7 +25,7 @@ Selama periode 2016–2024, Indonesia mengalami berbagai penyesuaian harga BBM, 
 
 - Bagaimana perubahan harga BBM (Pertalite, Pertamax, dan Solar) selama 2016–2024?
 - Bagaimana pola pertumbuhan konsumsi BBM selama 2016–2024?
-- Bagaimana struktur konsumsi Pertalite, Pertamax, dan Solar berubah selama periode tersebut?
+- Bagaimana komposisi konsumsi Pertalite, Pertamax, dan Solar berubah selama periode ini?
 - Seberapa sensitif konsumsi BBM terhadap perubahan harga?
 - Apakah perubahan harga mendorong terjadinya fuel switching antar jenis BBM?
 - Bagaimana pertumbuhan ekonomi dan inflasi memengaruhi permintaan BBM nasional?
