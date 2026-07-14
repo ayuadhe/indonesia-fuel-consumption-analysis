@@ -43,16 +43,14 @@ Data konsumsi Pertamax dalam analisis ini hanya tersedia hingga 2022 berdasarkan
 <br>
 
 1. **Tahun 2022 menjadi titik perubahan utama dalam kebijakan harga BBM setelah periode stabil yang panjang.**<br>
-   Seluruh jenis BBM menunjukkan tren kenaikan selama 2016–2024, dengan penyesuaian terbesar terjadi pada 2022 akibat tekanan biaya energi global dan perubahan kebijakan domestik. Pertamax mencatat volatilitas tertinggi karena lebih mengikuti mekanisme pasar, sementara Pertalite dan Solar relatif lebih stabil berkat intervensi pemerintah.
+   Seluruh jenis BBM menunjukkan tren kenaikan selama 2016–2024, dengan penyesuaian terbesar terjadi pada 2022 akibat tekanan biaya energi global dan perubahan kebijakan domestik. Pertamax mencatat volatilitas tertinggi karena lebih mengikuti mekanisme pasar, sementara Pertalite dan Solar relatif lebih stabil berkat intervensi pemerintah.<br>
 2. **Permintaan BBM nasional tetap tumbuh kuat dan pulih cepat pasca-pandemi.**<br>
-  Konsumsi BBM sempat melemah pada 2020 akibat pandemi COVID-19, namun kembali meningkat setelah aktivitas ekonomi pulih. Pertalite menjadi pendorong utama pertumbuhan konsumsi, menunjukkan tingginya ketergantungan masyarakat terhadap BBM untuk kebutuhan mobilitas sehari-hari.
-3. **Terjadi pergeseran dominasi konsumsi BBM dari Solar ke Pertalite selama 2016–2022.**<br>
-  Pangsa konsumsi Pertalite meningkat secara konsisten hingga melampaui Solar dan menjadi jenis BBM dengan konsumsi terbesar pada 2022. Perubahan ini menunjukkan transformasi struktur konsumsi energi nasional serta semakin kuatnya peran Pertalite dalam memenuhi kebutuhan mobilitas masyarakat.
-4. **Respons konsumsi terhadap kenaikan harga berbeda pada setiap jenis BBM.**<br>
-  Kenaikan harga tidak selalu diikuti oleh penurunan konsumsi. Pertalite menunjukkan pertumbuhan konsumsi yang tetap kuat meskipun mengalami penyesuaian harga, sementara Pertamax cenderung lebih sensitif terhadap perubahan harga dan memiliki potensi perpindahan konsumen ke BBM yang lebih terjangkau. Di sisi lain, konsumsi Solar relatif stabil dan lebih dipengaruhi oleh aktivitas ekonomi serta kebutuhan sektor logistik dibandingkan perubahan harga.
-5. **Aktivitas ekonomi menjadi pendorong utama permintaan BBM nasional.**<br>
-  Konsumsi BBM menunjukkan pola yang sejalan dengan pertumbuhan ekonomi, terlihat dari penurunan pada masa kontraksi ekonomi 2020 dan pemulihan yang kuat pada periode 2021–2022. Temuan ini menunjukkan bahwa aktivitas ekonomi dan mobilitas masyarakat memiliki pengaruh yang lebih besar terhadap permintaan BBM dibanding perubahan harga dalam jangka pendek.
-6. **Terdapat indikasi fuel switching dari Pertamax ke Pertalite ketika kesenjangan harga semakin melebar.**<br>
+  Konsumsi BBM sempat melemah pada 2020 akibat pandemi COVID-19, namun kembali meningkat setelah aktivitas ekonomi pulih. Pertalite menjadi pendorong utama pertumbuhan konsumsi, menunjukkan tingginya ketergantungan masyarakat terhadap BBM untuk kebutuhan mobilitas sehari-hari.<br>
+3. **Respons konsumsi terhadap kenaikan harga berbeda pada setiap jenis BBM.**<br>
+  Kenaikan harga tidak selalu diikuti oleh penurunan konsumsi. Pertalite menunjukkan pertumbuhan konsumsi yang tetap kuat meskipun mengalami penyesuaian harga, sementara Pertamax cenderung lebih sensitif terhadap perubahan harga dan memiliki potensi perpindahan konsumen ke BBM yang lebih terjangkau. Di sisi lain, konsumsi Solar relatif stabil dan lebih dipengaruhi oleh aktivitas ekonomi serta kebutuhan sektor logistik dibandingkan perubahan harga.<br>
+4. **Aktivitas ekonomi menjadi pendorong utama permintaan BBM nasional.**<br>
+  Konsumsi BBM menunjukkan pola yang sejalan dengan pertumbuhan ekonomi, terlihat dari penurunan pada masa kontraksi ekonomi 2020 dan pemulihan yang kuat pada periode 2021–2022. Temuan ini menunjukkan bahwa aktivitas ekonomi dan mobilitas masyarakat memiliki pengaruh yang lebih besar terhadap permintaan BBM dibanding perubahan harga dalam jangka pendek.<br>
+5. **Terdapat indikasi fuel switching dari Pertamax ke Pertalite ketika kesenjangan harga semakin melebar.**<br>
   Kenaikan harga Pertamax cenderung diikuti perlambatan atau penurunan konsumsi, sementara konsumsi Pertalite tetap tumbuh kuat. Pola ini mengindikasikan adanya kecenderungan sebagian konsumen untuk beralih ke alternatif yang lebih terjangkau, meskipun faktor ekonomi dan kebijakan juga turut memengaruhi perubahan konsumsi.
 
 <br>
@@ -64,8 +62,12 @@ Data konsumsi Pertamax dalam analisis ini hanya tersedia hingga 2022 berdasarkan
   <img width="1656" height="255" alt="Image" src="https://github.com/user-attachments/assets/0f40449f-1693-4d2b-8d5d-5888d8a9bd57" />
 </p>
 
-Selama periode 2016–2024, harga Pertalite meningkat sebesar +40,4% dari Rp7.121 menjadi Rp10.000 per liter. Meskipun demikian, konsumsi BBM nasional tetap menunjukkan tren kenaikan, dengan puncak tertinggi tercatat pada tahun 2022 sebesar 53,6 juta KL. Sepanjang periode analisis, Pertalite mendominasi komposisi konsumsi BBM dengan rata-rata share 51,4% dari total konsumsi. Secara keseluruhan, rata-rata konsumsi BBM nasional berada di level 40,8 juta KL per tahun, menunjukkan bahwa permintaan energi transportasi tetap tumbuh meskipun terdapat kenaikan harga BBM.
+- Selama periode 2016–2024, harga Pertalite meningkat sebesar +40,4% dari Rp7.121 menjadi Rp10.000 per liter.
+- Konsumsi BBM nasional menunjukkan tren kenaikan, dengan puncak tertinggi tercatat pada tahun 2022 sebesar 53,6 juta KL.
+- Pertalite mendominasi komposisi konsumsi BBM dengan rata-rata share 51,4% dari total konsumsi.
+- Secara keseluruhan, rata-rata konsumsi BBM nasional berada di level 40,8 juta KL per tahun.
 
+<br>
 
 ### 1.1. Fuel Price Trend (2016-2024)
 
@@ -74,12 +76,13 @@ Selama periode 2016–2024, harga Pertalite meningkat sebesar +40,4% dari Rp7.12
   <img width="491" height="234" alt="Image" src="https://github.com/user-attachments/assets/c1f87461-b84e-4fb4-8990-16d770f86acb" />
 </p>
 
-Selama 2016–2024, harga ketiga jenis BBM di Indonesia menunjukkan tren meningkat. **Pertamax** mencatat volatilitas harga tertinggi sebagai BBM non-subsidi, dengan harga meningkat dari Rp7.700 pada 2016 menjadi Rp13.262 per liter pada 2024. Kenaikan paling tajam terjadi pada 2022, saat harga melonjak dari Rp9.000 menjadi Rp12.112 hanya dalam satu tahun.
+Selama 2016–2024, harga ketiga jenis BBM menunjukkan tren meningkat. Pertamax mencatat kenaikan dan volatilitas tertinggi, dari Rp7.700 menjadi Rp13.262 per liter, dengan lonjakan terbesar pada 2022, saat harga naik dari Rp9.000 menjadi Rp12.112 dalam satu tahun.
 
 Pertalite menunjukkan pola harga yang relatif stabil pada periode 2016–2021, berada di kisaran Rp7.121–Rp7.650 per liter. Pada 2022, harga mengalami kenaikan menjadi Rp8.433 per liter, sebelum kembali meningkat signifikan ke Rp10.000 pada September 2023 dan bertahan pada level tersebut hingga 2024.
 
-Sementara itu, Solar mencatat periode stabilitas harga yang relatif panjang, tetap di level Rp5.150 per liter selama 2017–2021. Pada 2022, harga meningkat menjadi Rp5.700 per liter, sebelum kembali naik ke Rp6.800 pada 2023. Konsistensi kebijakan harga ini mencerminkan upaya pemerintah dalam menjaga stabilitas biaya logistik dan transportasi nasional.
+Sementara itu, Solar mempertahankan harga Rp5.150 selama 2017–2021, sebelum meningkat menjadi Rp5.700 pada 2022 dan Rp6.800 pada 2023, mencerminkan kebijakan pemerintah untuk menjaga stabilitas biaya logistik dan transportasi.
 
+<br>
 
 ### 1.2. Fuel Consumption Trend (2016-2024)
 
@@ -88,11 +91,13 @@ Sementara itu, Solar mencatat periode stabilitas harga yang relatif panjang, tet
   <img width="481" height="239" alt="Image" src="https://github.com/user-attachments/assets/57ebe5fe-ab6c-4f1b-91e9-93353d9315f8" />
 </p>
 
-Konsumsi BBM nasional menunjukkan tren pertumbuhan jangka panjang selama 2016–2024, meskipun sempat mengalami perlambatan pada 2020 akibat pandemi COVID-19. Setelah aktivitas ekonomi dan mobilitas kembali pulih, konsumsi BBM meningkat secara signifikan dan mencapai level yang lebih tinggi dibanding periode pra-pandemi.
+Konsumsi BBM nasional menunjukkan tren meningkat pada 2016–2024. Meski sempat menurun akibat pandemi COVID-19 pada 2020, konsumsi kembali pulih dan melampaui level pra-pandemi.
 
-Pertumbuhan tersebut terutama didorong oleh Pertalite yang mencatat peningkatan konsumsi paling besar sepanjang periode analisis. Sementara itu, konsumsi Solar relatif stabil dan tetap menjadi komponen penting bagi sektor logistik dan transportasi, sedangkan Pertamax menunjukkan pertumbuhan yang lebih terbatas dibanding jenis BBM lainnya.
+Pertumbuhan konsumsi terutama didorong oleh Pertalite. Solar relatif stabil sebagai penopang sektor logistik dan transportasi, sedangkan Pertamax mencatat pertumbuhan yang lebih terbatas.
 
-Pola ini mengindikasikan bahwa permintaan BBM di Indonesia tetap kuat dan mampu pulih dengan cepat setelah terjadi guncangan ekonomi, mencerminkan tingginya ketergantungan aktivitas ekonomi dan mobilitas masyarakat terhadap energi berbasis bahan bakar minyak.
+Pola ini menunjukkan permintaan BBM di Indonesia tetap kuat dan cepat pulih setelah guncangan ekonomi.
+
+<br>
 
 ### 1.3. Fuel Consumption Share by Type (2016-2022)
 
@@ -104,12 +109,8 @@ Pola ini mengindikasikan bahwa permintaan BBM di Indonesia tetap kuat dan mampu 
 <p align="center">
   <sub>Data konsumsi Pertamax hanya tersedia hingga 2022.</sub>
 </p>
-  
-Struktur konsumsi BBM Indonesia mengalami perubahan signifikan selama 2016–2022. Pada 2016, konsumsi masih didominasi oleh Solar yang menyumbang 56,49% dari total konsumsi nasional, sementara Pertalite hanya berkontribusi 23,87%.
 
-Dalam enam tahun berikutnya, terjadi pergeseran dominasi yang konsisten. Pangsa Pertalite meningkat setiap tahun hingga mencapai 55,44% pada 2022 dan menjadi jenis BBM dengan konsumsi terbesar secara nasional. Pada saat yang sama, pangsa Solar menurun menjadi 33,79%, sementara Pertamax turun dari 19,64% menjadi 10,77%.
-
-Perubahan ini menunjukkan adanya transformasi struktur konsumsi BBM nasional, di mana Pertalite semakin menjadi pilihan utama masyarakat dan mengambil porsi konsumsi yang sebelumnya didominasi oleh Solar.
+Struktur konsumsi BBM bergeser signifikan pada 2016–2022. Pangsa Pertalite meingkat setiap tahun dari 23,87% menjadi 55,44%, menggantikan Solar sebagai BBM dengan konsumsi terbesar. Sementara itu, pangsa Solar turun dari 56,49% menjadi 33,79% dan Pertamax dari 19,64% menjadi 10,77%.
 
 <br>
 
@@ -121,11 +122,11 @@ Perubahan ini menunjukkan adanya transformasi struktur konsumsi BBM nasional, di
   <img width="1661" height="254" alt="Image" src="https://github.com/user-attachments/assets/41533aa8-9663-4863-8dff-fbafd0aa4397" />
 </p>
 
-Pada 2020, Indonesia mengalami kontraksi ekonomi sebesar -2,07% akibat pandemi COVID-19 yang menekan aktivitas ekonomi dan mobilitas masyarakat. Memasuki periode pemulihan, inflasi mencapai puncaknya pada 2022 sebesar 5,51%, diikuti penyesuaian harga energi, termasuk kenaikan harga Pertamax sebesar 34,6% dari Rp9.000 menjadi Rp12.112 per liter.
+- Pada 2022, ekonomi Indonesia terkontraksi -2,07% akibat pandemi COVID-19 sehingga aktivitas ekonomi dan mobilitas menurun.
+- Seiring pemulihan ekonomi di tahun 2022, inflasi meningkat menjadi 5,51%, diikuti kenaikan harga Pertamax sebesar 34,6% (Rp9.000 menjadi Rp12.112 per liter).
+- Di tengah kenaikan harga tersebut, konsumsi Pertalite justru meningkat 27,5% pada 2021–2022. Kondisi ini mengindikasikan adanya pergeseran preferensi konsumen ke BBM dengan harga yang lebih terjangkau.
 
-Di tengah kenaikan harga tersebut, konsumsi Pertalite tumbuh signifikan sebesar 27,5% pada periode 2021–2022. Fenomena ini mengindikasikan adanya pergeseran preferensi konsumen yang perlu dikaji lebih lanjut.
-
-Berdasarkan kondisi tersebut, bagian berikutnya akan mengeksplorasi bagaimana perubahan harga, kondisi ekonomi, dan potensi pergeseran konsumsi antar jenis BBM memengaruhi permintaan BBM nasional.
+<br>
 
 ### 2.1. Price vs Consumption Trend
 
@@ -138,25 +139,21 @@ Berdasarkan kondisi tersebut, bagian berikutnya akan mengeksplorasi bagaimana pe
 
 ### Pertalite
 
-Konsumsi Pertalite menunjukkan pertumbuhan yang konsisten sepanjang periode pengamatan meskipun terjadi beberapa kali penyesuaian harga. Pada 2022, ketika harga rata-rata tahunan meningkat menjadi Rp8.433 per liter, konsumsi justru naik dari 23,3 juta KL menjadi 29,7 juta KL.
-
-Pola serupa juga terlihat pada periode 2016–2018, di mana kenaikan harga tidak menghambat pertumbuhan konsumsi. Temuan ini mengindikasikan bahwa konsumsi Pertalite relatif kurang sensitif terhadap perubahan harga dibandingkan jenis BBM lainnya. Sebagai BBM yang paling terjangkau bagi mayoritas masyarakat, Pertalite tetap menjadi pilihan utama untuk memenuhi kebutuhan mobilitas sehari-hari.
+Konsumsi Pertalite terus meningkat meskipun mengalami beberapa kali kenaikan harga. Pada 2022, saat harga naik menjadi Rp8.433 per liter, konsumsi justru meningkat dari 23,3 juta KL menjadi 29,7 juta KL. Pola serupa juga terlihat pada 2016–2018, menunjukkan bahwa konsumsi Pertalite relatif kurang sensitif terhadap perubahan harga dan tetap menjadi pilihan utama masyarakat karena harganya yang lebih terjangkau.
 
 ### Pertamax
 
-Berbeda dengan Pertalite, konsumsi Pertamax menunjukkan hubungan yang lebih dinamis terhadap perubahan harga. Pada periode 2018–2019, kenaikan harga diikuti penurunan konsumsi dari 5,64 juta KL menjadi 4,25 juta KL.
+Pertamax menunjukkan respons konsumsi yang lebih bervariasi terhadap perubahan harga dibandingkan Pertalite. Pada 2018–2019, kenaikan harga diikuti penurunan konsumsi dari 5,64 juta KL menjadi 4,25 juta KL. 
 
-Namun, pola tersebut tidak sepenuhnya konsisten. Pada 2022, harga Pertamax meningkat tajam hingga Rp12.112 per liter, sementara konsumsi tetap bertahan di kisaran 5,77 juta KL. Hal ini menunjukkan bahwa selain harga, faktor lain seperti pemulihan ekonomi dan karakteristik konsumen juga turut memengaruhi tingkat konsumsi.
-
-Selain itu, selisih harga yang semakin lebar antara Pertamax dan Pertalite berpotensi mendorong sebagian konsumen untuk beralih ke BBM yang lebih terjangkau, terutama pada periode kenaikan harga yang signifikan.
+Namun, pola tersebut tidak selalu konsisten. Pada 2022, meskipun harga Pertamax naik tajam menjadi Rp12.112 per liter, konsumsi tetap bertahan di kisaran 5,77 juta KL. Temuan ini menunjukkan bahwa konsumsi Pertamax tidak hanya dipengaruhi oleh harga, tetapi juga oleh faktor lain, seperti pemulihan ekonomi dan karakteristik konsumennya. Selain itu, selisih harga yang semakin lebar dengan Pertalite mengindikasikan potensi peralihan sebagian konsumen ke BBM yang lebih terjangkau.
 
 ### Solar
 
-Konsumsi Solar menunjukkan pola yang relatif stabil sepanjang periode pengamatan. Penurunan terbesar terjadi pada 2020, ketika konsumsi turun dari 15,30 juta KL menjadi 14,48 juta KL seiring perlambatan aktivitas ekonomi akibat pandemi COVID-19.
+Solar menunjukkan pola konsumsi yang relatif stabil. Penurunan terbesar terjadi pada 2020 akibat perlambatan aktivitas ekonomi selama pandemi. Meski harga naik pada 2022, konsumsi justru meningkat dari 16,06 juta KL menjadi 18,10 juta KL, mengindikasikan bahwa konsumsi Solar lebih dipengaruhi oleh aktivitas ekonomi, logistik, dan transportasi daripada harga.
 
-Meskipun harga Solar meningkat pada 2022 setelah relatif stabil selama beberapa tahun, konsumsi justru naik dari 16,06 juta KL menjadi 18,10 juta KL. Temuan ini mengindikasikan bahwa konsumsi Solar lebih erat kaitannya dengan aktivitas ekonomi, logistik, dan transportasi dibandingkan perubahan harga semata.
+Penurunan konsumsi setelah 2022 juga terjadi bersamaan dengan penguatan kebijakan pengendalian distribusi Solar subsidi, sehingga terdapat indikasi bahwa faktor kebijakan turut memengaruhi pola konsumsi Solar dalam beberapa tahun terakhir.
 
-Penurunan konsumsi pada periode setelah 2022 juga terjadi bersamaan dengan penguatan kebijakan pengendalian distribusi Solar subsidi, sehingga terdapat indikasi bahwa faktor kebijakan turut memengaruhi pola konsumsi Solar dalam beberapa tahun terakhir.
+<br>
 
 ### 2.2. Total BBM Consumption vs GDP Growth
 <br> 
